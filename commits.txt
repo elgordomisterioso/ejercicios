@@ -1,0 +1,17 @@
+commit 83bf1b016d89eae0e4d846642438a308e1fcb20a
+Author: unknown <00139155@st-tep-lis3-n21.labst.academico.pucmm>
+Date:   Fri Jan 27 20:32:27 2017 -0400
+
+    incorporando acentuacion e insertando imagen
+
+commit 9e35b0b994879433d885c73f8b775c3b92011bab
+Author: unknown <00139155@st-tep-lis3-n21.labst.academico.pucmm>
+Date:   Fri Jan 27 19:55:08 2017 -0400
+
+    dando estructura a la pagina
+
+commit fcf4b8a9588ada77d1e45dbadbfa8f7f006a7e80
+Author: unknown <00139155@st-tep-lis3-n21.labst.academico.pucmm>
+Date:   Fri Jan 27 19:48:23 2017 -0400
+
+    iniciamos
